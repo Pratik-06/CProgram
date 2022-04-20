@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+#include < stdio.h >  
+  
+int main()  
+{  
+    int a = 10, b;  
+  
+    b = --a;  
+  
+    printf("b = %d\n\n", b);  
+    printf("a = %d\n", a);  
+  
+    return 0;  
+=======
+#include < stdio.h >  
+  
+int main()  
+{  
+    int a = 10, b;  
+  
+    b = --a;  
+  
+    printf("b = %d\n\n", b);  
+    printf("a = %d\n", a);  
+  
+    return 0;  
+>>>>>>> b6ef7a310e39387a7c3fc8c9ee04e91b872a858d
+}  
